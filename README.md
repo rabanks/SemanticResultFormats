@@ -1,5 +1,5 @@
 # Semantic Result Formats
-Small edit
+Small edit2
 Semantic Result Formats is an extension to MediaWiki that bundles a number of
 result formats for Semantic MediaWiki's inline queries. The individual formats
 can be added to the installation independently. This file contains an
